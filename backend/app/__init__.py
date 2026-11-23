@@ -1,0 +1,1 @@
+"""DoomsDayCalc FastAPI backend package."""

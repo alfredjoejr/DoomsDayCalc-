@@ -1,0 +1,54 @@
+/* ==========================================================================
+   DoomsDayCalc Design System — Editorial Obsidian & Crimson Palette
+   ========================================================================== */
+
+:root {
+  /* Surface Hierarchy */
+  --bg-canvas: #090b10;
+  --bg-elevated: #10141d;
+  --bg-card: #151b27;
+  --bg-card-hover: #1b2333;
+  --bg-glass: rgba(16, 20, 29, 0.82);
+
+  /* Borders */
+  --border-subtle: rgba(255, 255, 255, 0.08);
+  --border-medium: rgba(255, 255, 255, 0.12);
+  --border-strong: rgba(255, 255, 255, 0.18);
+
+  /* Typography */
+  --text-primary: #f8fafc;
+  --text-secondary: #94a3b8;
+  --text-muted: #64748b;
+
+  /* Brand & Focal Accents */
+  --accent-primary: #e11d48;
+  --accent-primary-soft: rgba(225, 29, 72, 0.15);
+  --accent-glow: rgba(225, 29, 72, 0.22);
+  --accent-amber: #f59e0b;
+
+  /* Semantic Mortality Category Colors */
+  --cat-pandemic: #f43f5e;
+  --cat-war: #f97316;
+  --cat-famine: #eab308;
+  --cat-disaster: #06b6d4;
+  --cat-atrocity: #a855f7;
+  --cat-industrial: #10b981;
+
+  /* Typography Families */
+  --font-display: 'Fraunces', Georgia, serif;
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
+
+  /* Radii & Shadows */
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 14px;
+  --radius-xl: 18px;
+  --radius-full: 9999px;
+
+  --shadow-card: 0 8px 28px rgba(0, 0, 0, 0.36);
+  --shadow-elevated: 0 20px 50px rgba(0, 0, 0, 0.55);
+
+  /* Transitions */
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+}
